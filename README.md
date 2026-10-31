@@ -5,7 +5,7 @@
 - 🧪 Mais de 10 anos em TI, com atuação em **qualidade de software, automação de testes e análise de negócios** no setor financeiro.
 - 🏦 Experiência em sistemas críticos, como o contrato **Caixa Loterias** (automação com Selenium WebDriver + Java) e a **Poupex**, onde atuo como Analista de Negócios em gestão de projetos e equipe.
 - 🔗 Meu foco é **conectar regra de negócio e qualidade**: do levantamento de requisitos e critérios de aceite até testes automatizados de UI e API.
-- 🚀 Hoje estou praticando **Playwright + TypeScript**, testes de API e pipelines de CI. Os projetos estão aqui nos repositórios fixados.
+- 🚀 Hoje estou praticando **Playwright + TypeScript**, testes de API e pipelines de CI. Em breve: projeto de portfólio com testes E2E e de API.
 - 🤝 Disponível para **projetos de QA (PJ / remoto)**.
 
 ### 🛠️ Stack
